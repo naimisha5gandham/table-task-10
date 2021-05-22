@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.components-table-demo-control-bar{
+    background-color: #f9dcc4;
+    word-spacing: 20px;
+    padding-top: 40px;
+    padding-left: 12px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+}
+.table{
+    background-color: #5aa9e6;
+    padding: 40px;
+}
